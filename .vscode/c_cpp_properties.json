@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "UE5_TemplateEditor Editor Win64 Development (UE5_Template)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\01-Kisae-Lee\\Local\\ue5\\UE5_Template\\.vscode\\compileCommands_UE5_Template.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\01-Kisae-Lee\\Local\\ue5\\UE5_Template\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

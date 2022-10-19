@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\01-Kisae-Lee\\Local\\ue5\\UE5_Template\\Source\\UE5_Template\\UE5_Template.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\01-Kisae-Lee\\Local\\ue5\\UE5_Template\\.vscode\\compileCommands_Default\\UE5_Template.209.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\01-Kisae-Lee\\Local\\ue5\\UE5_Template\\Source\\UE5_Template\\UE5_Template.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\01-Kisae-Lee\\Local\\ue5\\UE5_Template\\.vscode\\compileCommands_Default\\UE5_Template.209.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\01-Kisae-Lee\\Local\\ue5\\UE5_Template\\Source\\UE5_Template\\UE5_Template.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\01-Kisae-Lee\\Local\\ue5\\UE5_Template\\.vscode\\compileCommands_Default\\UE5_Template.209.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\01-Kisae-Lee\\Local\\ue5\\UE5_Template\\Source\\UE5_Template\\UE5_TemplateGameModeBase.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\01-Kisae-Lee\\Local\\ue5\\UE5_Template\\.vscode\\compileCommands_Default\\UE5_Template.209.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\01-Kisae-Lee\\Local\\ue5\\UE5_Template\\Source\\UE5_Template\\UE5_TemplateGameModeBase.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\01-Kisae-Lee\\Local\\ue5\\UE5_Template\\.vscode\\compileCommands_Default\\UE5_Template.209.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
